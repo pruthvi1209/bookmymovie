@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "book-my-movie",
+    "prod": "book-my-movie-c0473"
+  }
+}

@@ -1,0 +1,9 @@
+diff a/e2e/protractor.conf.js b/e2e/protractor.conf.js	(rejected hunks)
+@@ -8,3 +8 @@ exports.config = {
+-  specs: [
+-    './src/**/*.e2e-spec.ts'
+-  ],
++  specs: ['./src/**/*.e2e-spec.ts'],
+@@ -12 +10 @@ exports.config = {
+-    'browserName': 'chrome'
++    browserName: 'chrome'

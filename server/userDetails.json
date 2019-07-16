@@ -1,0 +1,26 @@
+{
+  "userDetails": {
+    "users": [
+      {
+        "uid": "104930459862086855344",
+        "email": "advaid@outlook.in",
+        "name": "Advaid Manoj",
+        "role": "Standard",
+        "preferences": {
+          "lang": "en",
+          "generes": [1, 2, 3]
+        },
+        "ratings": [
+          {
+            "movieId": 1,
+            "rating": 4
+          },
+          {
+            "movieId": 4,
+            "rating": 3
+          }
+        ]
+      }
+    ]
+  }
+}
